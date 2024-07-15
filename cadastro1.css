@@ -1,0 +1,67 @@
+
+h1{
+  
+    margin: 5% auto;
+    width: 30%;
+ }
+ 
+ h1:hover{
+ color: blue;
+ 
+ }
+ 
+ .form_cadastro {
+     border: solid 3px green;
+     max-width: 400px;
+     height: 400px;
+     margin: 0 auto;
+     border-radius: 25% 5%;
+     margin-top: 6%;
+     box-shadow: 10px 5px 5px black;
+     background-image: url(img/cadastro.png) ;
+ 
+ }
+ 
+ input {
+     border-radius: 40% 15%;
+     padding: 2%;
+     margin-top: 5px;
+ }
+ 
+ .ctr1 {
+     margin-top: 10%;
+     width: 90%;
+     
+     margin: 15% 5% auto;
+ }
+ 
+ .inp_nascimento {
+     width: 86.4%;
+     text-align: center;
+ }
+ 
+ .bnt_cadastro{
+     margin: 2% 35%;
+ }
+ .bnt_cadastro:hover{
+     background: rgb(0, 0, 0);
+     color: white;
+     transition: 2s;
+ }
+ 
+ a{
+     text-decoration: none;
+     margin: 3% 25%;
+ }
+ 
+ a:hover{
+     border-radius: 40% 15%;
+     background: rgb(0, 0, 0);
+  color: white;
+  box-shadow: 10px 5px 5px black;
+ }
+
+ .h2_error{
+    text-align: center;
+    color: rgb(236, 0, 0);
+ }

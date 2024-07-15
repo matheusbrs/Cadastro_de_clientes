@@ -1,0 +1,60 @@
+.cabecalho{
+    width: 100% auto;
+    height: 25px;  
+}
+.bnt_cnc{
+    border-radius: 15px;
+    background: green;
+    color: white;
+    margin-left: 80% ;
+}
+.bnt_cnc:hover{
+    background-color: rgb(14, 252, 14);color: white;
+    transition: 2s;
+    
+}
+h1{
+    text-align: center;
+    color: green; 
+}
+.img_log{
+   width: 300px;
+  
+    margin: auto;
+  display: block;
+}
+
+.login_style{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form_login{
+    border: solid 5px green;
+    margin: 0 auto;
+    width: 45%;
+    text-align: center;
+    border-radius:40% 15% ;
+}
+input{
+    margin-top: 2%;
+    border-radius: 40% 15%;
+    text-align: center; 
+}
+.bnt:hover{
+      background-color:green ;
+      color: white;
+      transition: 2s;
+    }
+a{
+    text-align: center;
+    text-decoration: none;
+}
+.a:hover{
+    background: green;
+    transition: 2s;
+  }
+
+  /* style pagina e cadastro */ 
+
+  
